@@ -43,6 +43,7 @@ class BaseCertificate(object):
         self.context, cert = self.load_context(
             cert_string=cert_string,
             cert_file=cert_file,
+            key_file=key_file,
             key_string=key_string,
             passphrase=passphrase
         )
