@@ -14,7 +14,7 @@
 
 
 __title__ = 'APNS client'
-__version__ = "0.2"
+__version__ = "0.2.1.1-bw"
 __author__ = "Sardar Yumatov"
 __contact__ = "ja.doma@gmail.com"
 __license__ = "Apache 2.0"
